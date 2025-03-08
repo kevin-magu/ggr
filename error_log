@@ -1,0 +1,227 @@
+[02-Jul-2023 12:00:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[02-Jul-2023 12:00:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[02-Jul-2023 12:00:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[02-Jul-2023 12:00:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[27-Jul-2023 10:02:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greenglo/public_html/index.php on line 82
+[27-Jul-2023 10:02:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greenglo/public_html/index.php on line 82
+[27-Jul-2023 10:10:54 UTC] PHP Notice:  Undefined index: username in /home/greenglo/public_html/admin.php on line 27
+[27-Jul-2023 10:11:43 UTC] PHP Notice:  Undefined index: username in /home/greenglo/public_html/admin.php on line 27
+[03-Sep-2023 17:15:52 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 47
+[03-Sep-2023 17:15:52 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 50
+[03-Sep-2023 17:15:52 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 57
+[03-Sep-2023 17:20:51 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 47
+[03-Sep-2023 17:20:51 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 50
+[03-Sep-2023 17:20:51 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 57
+[03-Sep-2023 17:25:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:30:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:32:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:35:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:42:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:42:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 17:53:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 79
+[03-Sep-2023 18:09:22 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 3
+[03-Sep-2023 18:14:24 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 3
+[03-Sep-2023 19:31:37 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/greenglo/public_html/manage-upcoming-events-processing.php on line 3
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[22-Oct-2023 10:10:58 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[07-Feb-2024 21:24:28 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[23-Apr-2024 00:47:12 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[18-May-2024 18:08:48 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[12-Jun-2024 09:26:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 09:26:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 09:26:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 09:26:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[12-Jun-2024 09:26:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[12-Jun-2024 09:26:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[12-Jun-2024 09:27:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 09:27:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 09:27:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 09:27:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[12-Jun-2024 09:27:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[12-Jun-2024 09:27:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[12-Jun-2024 12:05:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 12:05:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 13:45:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 13:45:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 13:46:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 13:46:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 13:46:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 13:46:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 14:32:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 14:32:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 15:04:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 15:04:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/upcoming-events.php on line 5
+[12-Jun-2024 15:04:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 15:04:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/upcoming-events.php on line 5
+[12-Jun-2024 15:39:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 15:39:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 15:40:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 15:40:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 15:41:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 15:41:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[12-Jun-2024 17:26:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[12-Jun-2024 17:26:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 00:46:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 00:46:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[13-Jun-2024 00:46:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[13-Jun-2024 00:46:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[13-Jun-2024 05:26:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 05:26:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 06:37:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 06:37:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 07:52:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 07:52:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 13:00:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:00:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 13:03:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:03:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[13-Jun-2024 13:03:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[13-Jun-2024 13:03:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[13-Jun-2024 13:05:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:05:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 13:05:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:05:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 13:35:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:35:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 13:35:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 13:35:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[13-Jun-2024 13:35:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[13-Jun-2024 13:35:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[13-Jun-2024 18:10:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 18:10:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 20:25:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 20:25:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[13-Jun-2024 22:08:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[13-Jun-2024 22:08:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/upcoming-events.php on line 5
+[14-Jun-2024 07:34:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[14-Jun-2024 07:34:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[15-Jun-2024 10:59:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[15-Jun-2024 10:59:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[16-Jun-2024 03:56:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[16-Jun-2024 03:56:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 6
+[16-Jun-2024 03:56:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/blog-cards.php on line 7
+[16-Jun-2024 03:56:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greenglo/public_html/blog-cards.php on line 8
+[16-Jun-2024 11:09:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[16-Jun-2024 11:09:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/upcoming-events.php on line 5
+[17-Jun-2024 08:20:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[17-Jun-2024 08:20:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/greenglo/public_html/gallery.php on line 6
+[17-Jun-2024 08:20:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'greenglo'@'localhost' (using password: YES) in /home/greenglo/public_html/includes.php on line 7
+[17-Jun-2024 08:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/greenglo/public_html/admin-login-processing.php:10
+Stack trace:
+#0 /home/greenglo/public_html/admin-login-processing.php(38): validateCredentials(false, 'Kevin', 'kevin@2023')
+#1 {main}
+  thrown in /home/greenglo/public_html/admin-login-processing.php on line 10
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[30-Jun-2024 10:37:36 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[17-Jul-2024 18:18:39 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[21-Jul-2024 11:03:04 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[31-Aug-2024 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[13-Oct-2024 21:39:14 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[01-Dec-2024 18:10:31 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[24-Dec-2024 07:24:44 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[08-Jan-2025 12:47:57 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[15-Jan-2025 09:14:22 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[01-Feb-2025 15:00:18 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[05-Feb-2025 10:17:10 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[09-Feb-2025 04:35:23 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 31
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 67
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 77
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 83
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 88
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 92
+[12-Feb-2025 07:02:24 UTC] PHP Notice:  Undefined variable: row in /home/greenglo/public_html/specific-blog.php on line 96
