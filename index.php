@@ -54,11 +54,12 @@
           <div id="p2">
             <hr />
             <p>
-              We believe in the transformative power of tree planting. <br />
-              Join us in the global movement to restore ecosystems, combat
-              climate change, and foster biodiversity through the simple act of
-              planting trees.Together, we can create a sustainable future for
-              generations to come.
+              Green Globe Realisation is committed to sustainability efforts across kenya.</br>
+              Our latest project involves protecting and restoring the Lorian Swamp, a vital ecosystem facing environmental threats. 
+              Through reforestation, habitat restoration, and community initiatives, we strive to balance
+               human development with conservation. Our efforts focus on biodiversity, clean water, and 
+               sustainability for future generations.             
+              <a href="">Read More</a> about our latest <a href="">Lorian Swamp conservation project.</a>
             </p>
           </div>
         </div>
@@ -462,13 +463,13 @@
 
     <section id="blogs-brief">
       <div class="blogs-brief-title">
-        <p class="main-titles">Blogs</p>
+        <p class="main-titles">Blogs & Projects</p>
       </div>
       <div class="blogs-brief-container">
         <div class="blog-brief-hero-text">
           <p>
-            Branching Out: Explore Our
-            <span class="blog-span">Green Globe Realisation</span> Blog for
+            Explore Our
+            <span class="blog-span">Green Globe Realisation</span> Projects for
             Inspiring Stories, Tips, and Insights on Tree Planting and
             Environmental Conservation.
           </p>
